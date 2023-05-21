@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Mercadona>
+    <direccion>Calle Concepcion</direccion>
+    <codigoPostal>41019</codigoPostal>
+    <coordenadas>
+        <norte>37°41'17.04</norte>
+        <sur></sur>
+        <este></este>
+        <oeste>-5°91'97.46</oeste>
+    </coordenadas>
+    <productos>
+        <panaderia>
+            <producto>pan</producto>
+            <marca>Bimno</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>500</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>1.99</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>true</enOferta>
+            <comprado>false</comprado>
+        </panaderia>
+        <panaderia>
+            <producto>pan semillas y cereales</producto>
+            <marca>El horno</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>450</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>2.99</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>false</enOferta>
+            <comprado>true</comprado>
+        </panaderia>
+        <fruteria>
+            <producto>tomates</producto>
+            <marca>Mercadona</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>500</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>1.99</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>true</enOferta>
+            <comprado>true</comprado>
+        </fruteria>
+        <fruteria>
+            <producto>pimientos</producto>
+            <marca>Mercadona</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>al peso</formato>
+                <cantidad>500</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>0.90</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>false</enOferta>
+            <comprado>true</comprado>
+        </fruteria>
+    </productos>
+</Mercadona>
